@@ -6,7 +6,7 @@ En este ensayo, se expone:
 + el uso de grid con números
 + el uso de grid con áreas
 
-A su vez, también se puede contratar:
+A su vez, también se puede contrastar:
 + el uso de imágenes dentro de bloques
 + el uso de imágenes de fondo
 
